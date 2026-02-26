@@ -29,7 +29,7 @@ END
 ```
 ### CALCULATION 
 
-<img width="577" height="1280" alt="image" src="https://github.com/user-attachments/assets/fc9c872b-a403-4c1e-91de-cfd510562c0d" />
+![WhatsApp Image 2026-02-26 at 10 28 02 AM](https://github.com/user-attachments/assets/8f52882f-ab6a-4523-960f-49196e5bd832)
 
 ## OUTPUT
 
@@ -72,7 +72,7 @@ END
 
 ### CALCULATION 
 
-<img width="577" height="1280" alt="image" src="https://github.com/user-attachments/assets/adc36c55-969a-4909-b405-30bb748b0510" />
+![WhatsApp Image 2026-02-26 at 10 28 02 AM](https://github.com/user-attachments/assets/159c5a77-5892-429a-8109-6ff7ec613509)
 
 ## OUTPUT
 
